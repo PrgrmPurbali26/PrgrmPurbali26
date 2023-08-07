@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Advanced Java And DSA
 - 💞️ I’m looking to collaborate on My Projects
-- 📫 How to reach me -- email me: PurbaliGhosh123@gmail.com
+- 📫 How to reach me -- email me: PurbaliGhosh123@outlook.com.com
 
 <!---
 PrgrmPurbali26/PrgrmPurbali26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
